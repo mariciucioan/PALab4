@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.ioanmariciuc.compulsory.Main
+Class-Path: snakeyaml-1.23-android.jar commons-lang3-3.5.jar generex-1.0
+ .2.jar javafaker-1.0.2.jar automaton-1.11-8.jar
+

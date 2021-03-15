@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="PALab4.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PALab4_main_jar</output-path>
+    <root id="root">
+      <element id="archive" name="PALab4.main.jar">
+        <element id="module-output" name="PALab4.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: org.yaml:snakeyaml:android:1.23" />
+      <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.5" />
+      <element id="library" level="project" name="Gradle: com.github.mifmif:generex:1.0.2" />
+      <element id="library" level="project" name="Gradle: com.github.javafaker:javafaker:1.0.2" />
+      <element id="library" level="project" name="Gradle: dk.brics.automaton:automaton:1.11-8" />
+    </root>
+  </artifact>
+</component>
